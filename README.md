@@ -12,3 +12,11 @@ One of the most important facts about white wine is it is known as the preventer
 ## Dataset
 
 The data-set was downloaded from UC Irvine machine learning data-set. My team is going to use some supervise machine learning techniques to predict which wine is more better based on the data that was gather from north of Portugal winery "Vinho Verde". The content of the data-set is the fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, ans sulphates.
+
+
+## Using different classifier models to predict the quality of the wine.
+
+|Column 1|Column 2|Column 3|
+|:---:|:---:|:---:|
+|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|
+|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|
