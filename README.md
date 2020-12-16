@@ -1,2 +1,5 @@
-# ece225_final_project
-Having fun with some data to predict which wine is better since I love wine. 
+# ECE225 Final Project
+
+## Quality of Wine Classification Using Prediction
+
+contributors: Ehsan Ziaeikajbaf and Sepehr Foroughi Shafiei
