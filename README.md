@@ -16,13 +16,6 @@ The data-set was downloaded from UC Irvine machine learning data-set. My team is
 
 ## Using different classifier models to predict the quality of the wine.
 
-|Column 1|Column 2|Column 3|
-|:---:|:---:|:---:|
-|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|
-|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|
-
-
-|Column 1|Column 2|Column 3|
+|1|2|3|
 |---|---|---|
-|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|
-|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|
+|Random Forest Classifier| Stochastic Gradient Descent Classifier| Support Vector Classifier(SVC)|
