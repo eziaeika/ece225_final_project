@@ -2,4 +2,7 @@
 
 ## Quality of Wine Classification Using Prediction
 
-### contributors: Ehsan Ziaeikajbaf and Sepehr Foroughi Shafiei
+### Contributors: Ehsan Ziaeikajbaf and Sepehr Foroughi Shafiei
+
+
+## Purpose 
