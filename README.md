@@ -1,6 +1,6 @@
 # ECE225 Final Project
 
-## Quality of Wine Classification Using Prediction
+## Quality of Wine Prediction Using Classification
 
 ### Contributors: Ehsan Ziaeikajbaf and Sepehr Foroughi Shafiei
 
